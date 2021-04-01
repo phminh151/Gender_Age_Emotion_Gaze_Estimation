@@ -1,0 +1,7 @@
+imutils
+dlib
+opencv-python
+argparse
+tensorflow
+keras
+flask
